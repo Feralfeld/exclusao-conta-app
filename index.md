@@ -1,6 +1,6 @@
 # Solicitação de Exclusão de Conta e Dados
 
-Esta página fornece as instruções para solicitar a exclusão da sua conta e dos dados associados ao aplicativo ****, desenvolvido por **Feralfeld**.
+Esta página fornece as instruções para solicitar a exclusão da sua conta e dos dados associados ao aplicativo, desenvolvido por **Feralfeld**.
 
 ### **Como Solicitar a Exclusão dos Seus Dados**
 
